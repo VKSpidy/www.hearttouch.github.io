@@ -9,7 +9,7 @@ body{
 h1{
 				color:#ff2e45;
 				text-align:center;
-				font-size:60px;
+				font-size:80px;
  font-family: 'Rock Salt', cursive;
   text-shadow:2px 3px 1px blue;
   animation:back 1s linear infinite;
@@ -148,7 +148,7 @@ h1 i{
 img{
      Border-radius:8%;
 }
-a{
+.room a{
 				width:300px;
 				height:25px;
 				color:white;
