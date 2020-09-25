@@ -70,6 +70,7 @@ h1 i{
 				background-image:linear-gradient(30deg,#a2ffdd,#ffffb9,#ffd1f4);
 			border-radius:7%;		
 			padding:10px;
+                        overflow:scroll;
 			box-shadow:8px 5px 10px 3px #a6889f;
 			position:relative;
 			}
@@ -97,6 +98,7 @@ h1 i{
 				background-image:linear-gradient(30deg,#8bfff4,#ffcf8b,#ffd1f4);
 			border-radius:7%;		
 			padding:10px;
+                        overflow:scroll;
 			box-shadow:8px 5px 10px 3px #a6889f;
 			position:relative;
 			overflow:scroll;
@@ -126,6 +128,7 @@ h1 i{
 				background-image:linear-gradient(30deg,#8bfff4,#ffcf8b,#ffd1f4);
 			border-radius:7%;		
 			padding:10px;
+                        overflow:scroll;
 			box-shadow:8px 5px 10px 3px #a6889f;
 			position:relative;
 			overflow:scroll;
