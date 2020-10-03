@@ -17,7 +17,8 @@
 
 
 
-<body bgcolor="#fffff0">
+<body bgcolor="#fffff0" onload="myFunction()">
+<div id="loading"></div>>
 <header>
   <h1>Heart<u>Touch</u>
  <i class="fas fa-hand-holding-heart"></i></h1>
@@ -338,5 +339,14 @@ This site's design is just a trial from a beginner. But their is a <br>fun fact 
 
 </p>
 </footer>
+<script>
+  var preloader= document.getElementById('loading');
+  
+  function myFunction() {
+  	preloader.style.display='none';
+  				
+  				}
+
+</script>
 </body>
 </html>
